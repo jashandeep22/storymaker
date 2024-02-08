@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+button {
+    font-size: 16px;
+    margin: 10px;
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    display:block;
+    align-items: center;
+    width: 200px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
